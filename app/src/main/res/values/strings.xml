@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScanKa</string>
+    <string name="visu">Visualisation</string>
+    <string name="download">Download</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ajt_livre">Ajouter un livre</string>
+    <string name="ajt_chapitre">Ajouter un chapitre</string>
+</resources>
